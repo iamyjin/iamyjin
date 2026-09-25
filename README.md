@@ -9,7 +9,7 @@
   <p><code>DevOps / SRE Engineer</code></p>
 
   <p>
-    <a href="https://www.linkedin.com/in/yauheni-p-335033304/"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=flat-square&logo=linkedin&logoColor=1D9BF0" alt="LinkedIn" /></a>&nbsp;
+    <a href="https://www.linkedin.com/in/eugene-n-a8461643a/"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=flat-square&logo=linkedin&logoColor=1D9BF0" alt="LinkedIn" /></a>&nbsp;
     <a href="https://t.me/iamyjin"><img src="https://img.shields.io/badge/Telegram-161B22?style=flat-square&logo=telegram&logoColor=26A5E4" alt="Telegram" /></a>
   </p>
 
